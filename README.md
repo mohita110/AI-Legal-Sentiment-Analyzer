@@ -1,3 +1,14 @@
 AI Legal Sentiment Analyzer
-The AI Legal Sentiment Analyzer is a solution that automates the analysis of sentiment in legal documents such as case summaries, client feedback, and arbitration reports. Manually reviewing these texts is time-consuming and prone to human error, making automation essential for improving efficiency and consistency in legal workflows.
-The primary objective of the AI Legal Sentiment Analyzer project is to develop an automated system that accurately determines the sentiment of legal documents, categorizing them as positive, negative, or neutral. By leveraging advanced AI models and NLP techniques, the project aims to streamline the review process, reduce manual analysis time, and deliver clear, actionable insights that help legal professionals assess the tone and implications of large volumes of text efficiently.
+WORKING -                                                                
+Step 1: Data Collection
+Gather legal documents in plain text or CSV format.
+Step 2: Data Preprocessing
+Clean and format text using Python tools.
+Step 3: Model Selection
+Use IBM watsonx.ai to configure models like FLAN-T5 or Mistral with few-shot prompts.
+Step 4: Sentiment Analysis
+Run the model to classify sentiment as positive, negative, or neutral.
+Step 5: Output Generation
+Save labeled results in CSV format.
+Step 6: Review
+Verify outputs and generate insights for decision-making.
