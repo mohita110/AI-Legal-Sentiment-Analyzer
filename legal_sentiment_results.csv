@@ -1,0 +1,31 @@
+Document_ID,Document_Text,Metadata,sentiment,sentiment_score
+1,The client expressed satisfaction with the resolution of the dispute and appreciated the professionalism of the legal team.,Client Feedback,LABEL_1,0.6287469863891602
+2,"The ruling imposes severe penalties on the defendant, creating significant financial and reputational harm.",Case Summary,LABEL_1,0.5938389897346497
+3,"While the settlement offer is reasonable, it does not fully address the concerns raised by the plaintiff.",Settlement Review,LABEL_1,0.5992725491523743
+4,"We are neutral regarding the outcome, as it aligns with standard practice and does not affect ongoing operations.",Internal Memo,LABEL_1,0.5669863224029541
+5,The decision favors our position and establishes a precedent beneficial to future cases.,Legal Opinion,LABEL_1,0.6027681827545166
+6,There is considerable dissatisfaction among stakeholders regarding the court's judgment.,Client Feedback,LABEL_1,0.6072859764099121
+7,The legal counsel provided clear and helpful advice throughout the arbitration process.,Client Feedback,LABEL_1,0.6854537725448608
+8,"The outcome appears largely positive, providing much-needed clarity on regulatory compliance requirements.",Case Analysis,LABEL_1,0.6192556619644165
+9,The recent court decision has created uncertainty and concern among compliance teams.,Case Update,LABEL_1,0.6307849884033203
+10,We believe the agreement represents a fair compromise acceptable to all parties.,Settlement Summary,LABEL_1,0.631454348564148
+11,The tribunal's findings were unexpected and could negatively impact future negotiations.,Arbitration Report,LABEL_1,0.5786316990852356
+12,The decision neither benefits nor harms our interests materially.,Neutral Memo,LABEL_1,0.6113445162773132
+13,The client expressed frustration with delays in the litigation process.,Client Communication,LABEL_1,0.6277605295181274
+14,"Overall, the panel's recommendation supports our proposed course of action.",Internal Report,LABEL_1,0.6185759902000427
+15,Stakeholders have voiced mixed opinions about the likely implications of the ruling.,Stakeholder Feedback,LABEL_1,0.5870532989501953
+16,The resolution is favorable and supports our interpretation of contractual obligations.,Legal Summary,LABEL_1,0.6482064127922058
+17,The judgment imposes a significant burden that could impact profitability.,Risk Assessment,LABEL_1,0.5565283894538879
+18,Counsel provided exceptional support and demonstrated a high level of expertise.,Client Testimonial,LABEL_1,0.6122283935546875
+19,The settlement does not address key concerns raised by the regulatory body.,Regulatory Review,LABEL_1,0.6972522139549255
+20,We do not anticipate any major operational changes as a result of the court's decision.,Neutral Analysis,LABEL_1,0.5877670645713806
+21,The outcome was disappointing and contrary to our expectations.,Case Outcome,LABEL_1,0.6277996301651001
+22,The legal team successfully negotiated favorable terms for our client.,Negotiation Summary,LABEL_1,0.6462264060974121
+23,This decision provides important clarity and sets a positive precedent.,Legal Update,LABEL_1,0.6398467421531677
+24,Concerns have been raised regarding the fairness of the arbitration process.,Internal Memo,LABEL_1,0.6772623658180237
+25,The final ruling is unlikely to materially impact our business strategy.,Strategy Assessment,LABEL_1,0.5977259278297424
+26,Counsel failed to adequately communicate critical updates during proceedings.,Client Complaint,LABEL_1,0.6594188213348389
+27,The ruling aligns with our interpretation and supports our compliance framework.,Compliance Report,LABEL_1,0.6214143633842468
+28,"The case was resolved efficiently, and all parties expressed satisfaction.",Settlement Summary,LABEL_1,0.6290172338485718
+29,The decision leaves several critical issues unresolved.,Legal Brief,LABEL_1,0.6286999583244324
+30,Client feedback was overwhelmingly positive regarding the handling of the dispute.,Client Feedback,LABEL_1,0.6129062175750732
